@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm ArcueidShiki 👋
+# Hi/你好/こにちは, I'm ArcueidShiki　アルクエドです👋
 
 I'm a passionate developer with experience in both software engineering and web development. I love working on challenging projects and continuously learning new technologies. My journey has taken me from pharmacy to information technology, where I've found my true passion in coding and problem-solving.
 
