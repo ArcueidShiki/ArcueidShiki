@@ -117,7 +117,11 @@ I'm a passionate developer with experience in both system engineering and web de
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl)
-
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green)
+![shader](https://img.shields.io/badge/shader-black?style=plastic&logo=shader&logoColor=green)
+![Vulkan](https://img.shields.io/badge/Vulkan-red?style=plastic&logo=Vulkan&logoColor=green)
 ### Video Production
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
