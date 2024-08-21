@@ -12,21 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi/你好/こにちは, I'm ArcueidShiki　アルクエドです👋
 
-I'm a passionate developer with experience in both software engineering and web development. I love working on challenging projects and continuously learning new technologies. My journey has taken me from pharmacy to information technology, where I've found my true passion in coding and problem-solving.
+# Hi/你好/こにちは, I'm ArcueidShiki 　アルクエドです 👋
 
-- 🔭 I’m currently working on: **IoT and stop-motion animation projects using Raspberry Pi.**
-- 🌱 I’m currently learning: **Advanced stock investment strategies and IP address obfuscation techniques.**
+I'm a passionate developer with experience in both system engineering and web development. I love working on challenging projects and continuously learning new technologies. My journey has taken me from pharmacy to information technology, where I've found my true passion in coding and problem-solving.
+
+- 🔭 I’m currently working on: **IoT Smart Entry System projects using Raspberry Pi.**
+- 🌱 I’m currently learning: **Advanced stock investment strategies and IP address obfuscation techniques. Rust programming threejs and Web3**
 - 👯 I’m looking to collaborate on: **Open-source projects related to web development or IoT.**
 - 💬 Ask me about: **Web development, C++, Python, system debugging, and video production.**
 - 📫 How to reach me: [pengjingtong@pku.edu.cn](mailto:pengjingtong@pku.edu.cn)
+  [24323312@student.uwa.edu.au](mailto:24323312@student.uwa.edu.au)
 
 ---
 
 ## 🛠️ My Skill Set
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,6 +40,7 @@ I'm a passionate developer with experience in both software engineering and web 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Web Development
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
@@ -46,6 +50,7 @@ I'm a passionate developer with experience in both software engineering and web 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -57,6 +62,7 @@ I'm a passionate developer with experience in both software engineering and web 
 ![Protozero](https://img.shields.io/badge/Protozero-8A2BE2?style=flat-square&logo=protocol-buffers&logoColor=white)
 
 ### Video Production
+
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 
@@ -69,12 +75,26 @@ I'm a passionate developer with experience in both software engineering and web 
 ---
 
 ## 🌟 Projects
-- **[Penni Project](https://github.com/codersforcauses/penni)** - A platform for retirees to find part-time jobs. Built with Next.js, React, TypeScript, Tailwind CSS, Django, and PostgreSQL.
-- **[Stop-motion Animation with Raspberry Pi](https://github.com/ArcueidShiki/stop-motion-raspberry-pi)** - Capture and create stop-motion animations using Raspberry Pi and FFmpeg.
+
+- **[Penni](https://github.com/codersforcauses/penni)** - A platform for retirees to find part-time jobs. Built with Next.js, React, TypeScript, Tailwind CSS, Django, and PostgreSQL.
+- **[Hiperf](https://gitee.com/openharmony/developtools_hiperf)** - hiperf is a command-line debugging tool provided by OpenHarmony for developers. It can capture performance data of a specific program or the entire system, like the kernel's perf tool. hiperf can run on Windows, Linux, and macOS.
+
+- **[Faultlog](https://gitee.com/openharmony/hiviewdfx_faultloggerd)** - Faultloggerd is a component that generates and manages temporary C/C++ runtime crash logs in OpenHarmony. You can find crash logs in the preset directory to locate faults.
 
 ---
 
 ## 🔗 Connect with me
+
 - [LinkedIn](https://www.linkedin.com/in/jingtong-peng-3068672b6/)
 - [GitHub](https://github.com/ArcueidShiki)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+<div id="canvas">
+    <canvas id="canvas"></canvas>
+    <script src="canvas-animation.js"></script>
+</div>
