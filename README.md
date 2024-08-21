@@ -28,38 +28,95 @@ I'm a passionate developer with experience in both system engineering and web de
 
 ## 🛠️ My Skill Set
 
-### Languages
+### Foundation
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![ProtoBuf](https://img.shields.io/badge/ProtoBuf-336791?style=flat-square&logo=protocol-buffers&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+<details open>
+
+<Summary>Languages</Summary>
+
+| Preference | Lanuages                                                                                                        |
+| ---------: | --------------------------------------------------------------------------------------------------------------- |
+|          1 | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)                            |
+|          2 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)                  |
+|          3 | ![C#](https://img.shields.io/badge/C%23-orange?style=flat-square&logo=c#&logoColor=white)                       |
+|          4 | ![Rust](https://img.shields.io/badge/Rust-yellow?style=flat-square&logo=rust&logoColor=white)                   |
+|          5 | ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white)                   |
+|          6 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+|          7 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+|          8 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)             |
+|          9 | ![Bash](https://img.shields.io/badge/Bash/Batch-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)         |
+
+</details>
 
 ### Web Development
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<details open>
+<summary>Frontend</summary>
+
+|                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------- |
+| ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)                   |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)                    |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)              |
+| ![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white)           |
+| ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)     |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white) |
+
+</details>
+
+<details open>
+<summary>Middleware</summary>
+
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch)
+
+</details>
+
+<details open>
+<summary>Backend</summary>
+
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) |
+| ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)    |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)           |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)        |
+| ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)        |
+| ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)    |
+
+</details>
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Repo](https://img.shields.io/badge/Repo-4183C4?style=flat-square&logo=git&logoColor=white)
 ![Linux Perf](https://img.shields.io/badge/Linux%20Perf-000000?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Repo](https://img.shields.io/badge/Repo-4183C4?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![AOSP](https://img.shields.io/badge/AOSP-3DDC84?style=flat-square&logo=android&logoColor=white)
+![ProtoBuf](https://img.shields.io/badge/ProtoBuf-336791?style=flat-square&logo=protocol-buffers&logoColor=white)
 ![Protozero](https://img.shields.io/badge/Protozero-8A2BE2?style=flat-square&logo=protocol-buffers&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+### Interest&Learning
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-yellow?style=plastic&logo=rust&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl)
 
 ### Video Production
 
@@ -93,8 +150,3 @@ I'm a passionate developer with experience in both system engineering and web de
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-
-<div id="canvas">
-    <canvas id="canvas"></canvas>
-    <script src="canvas-animation.js"></script>
-</div>
