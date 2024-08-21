@@ -122,6 +122,7 @@ I'm a passionate developer with experience in both system engineering and web de
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green)
 ![shader](https://img.shields.io/badge/shader-black?style=plastic&logo=shader&logoColor=green)
 ![Vulkan](https://img.shields.io/badge/Vulkan-red?style=plastic&logo=Vulkan&logoColor=green)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
 ### Video Production
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
