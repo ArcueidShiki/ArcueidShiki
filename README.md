@@ -33,6 +33,11 @@ I'm a passionate developer with experience in both system engineering and web de
 </picture>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🛠️ My Skill Set
