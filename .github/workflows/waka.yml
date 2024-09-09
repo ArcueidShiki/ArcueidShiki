@@ -7,13 +7,13 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: waka-box
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_COMMIT: "False"
