@@ -32,14 +32,6 @@ I'm a passionate developer with experience in both system engineering and web de
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/ArcueidShiki/ArcueidShiki/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## 🛠️ My Skill Set
 
 ### Languages
@@ -117,7 +109,13 @@ No activity tracked
 
 - **[Faultlog](https://gitee.com/openharmony/hiviewdfx_faultloggerd)** - Faultloggerd is a component that generates and manages temporary C/C++ runtime crash logs in OpenHarmony. You can find crash logs in the preset directory to locate faults.
 
----
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 ## 🔗 Connect with me
 
