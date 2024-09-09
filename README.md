@@ -26,65 +26,27 @@ I'm a passionate developer with experience in both system engineering and web de
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArcueidShiki/ArcueidShiki/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArcueidShiki/ArcueidShiki/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/ArcueidShiki/ArcueidShiki/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 ## 🛠️ My Skill Set
 
-### Foundation
+### Languages
 
-<details open>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-orange?style=flat-square&logo=c#&logoColor=white) ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash/Batch-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)         
 
-<Summary>Languages</Summary>
 
-| Preference | Lanuages                                                                                                        |
-| ---------: | --------------------------------------------------------------------------------------------------------------- |
-|          1 | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)                            |
-|          2 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)                  |
-|          3 | ![C#](https://img.shields.io/badge/C%23-orange?style=flat-square&logo=c#&logoColor=white)                       |
-|          4 | ![Rust](https://img.shields.io/badge/Rust-yellow?style=flat-square&logo=rust&logoColor=white)                   |
-|          5 | ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white)                   |
-|          6 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-|          7 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-|          8 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)             |
-|          9 | ![Bash](https://img.shields.io/badge/Bash/Batch-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)         |
+### Web Dev
 
-</details>
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch)
 
-### Web Development
+### Backend
 
-<details open>
-<summary>Frontend</summary>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
 
-|                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- |
-| ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)                   |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)                    |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)              |
-| ![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white)           |
-| ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)     |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white) |
-
-</details>
-
-<details open>
-<summary>Middleware</summary>
-
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch)
-
-</details>
-
-<details open>
-<summary>Backend</summary>
-
-|                                                                                                        |
-| ------------------------------------------------------------------------------------------------------ |
-| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) |
-| ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)    |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)           |
-| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)        |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)        |
-| ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)    |
-
-</details>
 
 ### Tools & Platforms
 
@@ -149,9 +111,3 @@ I'm a passionate developer with experience in both system engineering and web de
 
 - [LinkedIn](https://www.linkedin.com/in/jingtong-peng-3068672b6/)
 - [GitHub](https://github.com/ArcueidShiki)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
