@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Waka - Readme
+    name: waka-box
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.3.1
+      - uses: matchai/waka-box@v5.0.0
