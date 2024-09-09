@@ -90,13 +90,17 @@ I'm a passionate developer with experience in both system engineering and web de
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 
----
 
 ## 📈 GitHub Stats
 
-![Jingtong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcueidShiki&show_icons=true&theme=radical)
+<!--![Jingtong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcueidShiki&show_icons=true&theme=radical)-->
 
----
+<h6 align="center">
+
+  <img src="https://gh-readme-profile.vercel.app/api?username=ArcueidShiki&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true">
+
+</h6>
+
 
 ## 🌟 Projects
 
