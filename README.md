@@ -112,7 +112,11 @@ I'm a passionate developer with experience in both system engineering and web de
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++           6 hrs 49 mins   ████████████████████████▒   97.84 %
+Markdown      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Objective-C   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
