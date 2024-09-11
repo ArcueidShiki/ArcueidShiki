@@ -23,14 +23,23 @@ I'm a passionate developer with experience in both system engineering and web de
 - 💬 Ask me about: **Web development, C++, Python, system debugging, and video production.**
 - 📫 How to reach me: [pengjingtong@pku.edu.cn](mailto:pengjingtong@pku.edu.cn)
   [24323312@student.uwa.edu.au](mailto:24323312@student.uwa.edu.au)
-
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArcueidShiki/ArcueidShiki/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArcueidShiki/ArcueidShiki/blob/output/github-contribution-grid-snake.svg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/ArcueidShiki/ArcueidShiki/output/github-contribution-grid-snake-dark.svg">
 </picture>
+<!--START_SECTION:waka-->
+
+```txt
+C++           6 hrs 49 mins   ████████████████████████▒   97.84 %
+Markdown      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Objective-C   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
+<!--END_SECTION:waka-->
 
 ## 🛠️ My Skill Set
 
@@ -109,17 +118,6 @@ I'm a passionate developer with experience in both system engineering and web de
 
 - **[Faultlog](https://gitee.com/openharmony/hiviewdfx_faultloggerd)** - Faultloggerd is a component that generates and manages temporary C/C++ runtime crash logs in OpenHarmony. You can find crash logs in the preset directory to locate faults.
 
-<!--START_SECTION:waka-->
-
-```txt
-C++           6 hrs 49 mins   ████████████████████████▒   97.84 %
-Markdown      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Objective-C   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
 
 ## 🔗 Connect with me
 
