@@ -32,11 +32,11 @@ I'm a passionate developer with experience in both system engineering and web de
 <!--START_SECTION:waka-->
 
 ```txt
-C             13 hrs 38 mins  ████████████▒░░░░░░░░░░░░   49.26 %
-Python        4 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-C++           3 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Markdown      1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-OCaml         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+C             19 hrs 4 mins   ████████████▓░░░░░░░░░░░░   50.51 %
+Python        9 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
+C++           3 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+OCaml         1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Markdown      1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
