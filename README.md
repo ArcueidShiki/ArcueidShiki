@@ -12,17 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi/你好/こにちは, I'm ArcueidShiki 　アルクエドです 👋
-
-I'm a passionate developer with experience in both system engineering and web development. I love working on challenging projects and continuously learning new technologies. My journey has taken me from pharmacy to information technology, where I've found my true passion in coding and problem-solving.
-
-- 🔭 I’m currently working on: **IoT Smart Entry System projects using Raspberry Pi.**
-- 🌱 I’m currently learning: **Advanced stock investment strategies and IP address obfuscation techniques. Rust programming threejs and Web3**
-- 👯 I’m looking to collaborate on: **Open-source projects related to web development or IoT.**
-- 💬 Ask me about: **Web development, C++, Python, system debugging, and video production.**
-- 📫 How to reach me: [pengjingtong@pku.edu.cn](mailto:pengjingtong@pku.edu.cn)
-  [24323312@student.uwa.edu.au](mailto:24323312@student.uwa.edu.au)
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArcueidShiki/ArcueidShiki/blob/output/github-contribution-grid-snake-dark.svg">
@@ -48,7 +37,7 @@ HTML          26 mins         ▒░░░░░░░░░░░░░░░�
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-orange?style=flat-square&logo=c#&logoColor=white) ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash/Batch-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)         
 
 
-### Web Dev
+### Frontend
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch)
 
@@ -58,7 +47,7 @@ HTML          26 mins         ▒░░░░░░░░░░░░░░░�
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 
 
-### Tools & Platforms
+### Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Linux Perf](https://img.shields.io/badge/Linux%20Perf-000000?style=flat-square&logo=linux&logoColor=white)
@@ -71,7 +60,7 @@ HTML          26 mins         ▒░░░░░░░░░░░░░░░�
 ![Protozero](https://img.shields.io/badge/Protozero-8A2BE2?style=flat-square&logo=protocol-buffers&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 
-### Interest&Learning
+### Learning
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
