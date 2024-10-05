@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,qt,cmake,linux,clion,idea,cloudflare,aws,gcp,azure,react,codepen,vue,html,css,md,mysql,mongodb,nextjs,nginx,nodejs,obsidian,opencv,postman,postgres,powershell,rabbitmq,raspberrypi,redis,pr,spring,tensorflow,threejs,ts,ubuntu,unity,unreal,vercel,vite,vscode,anaconda,arduino,au,bash,blender,bootstrap,discord,django,docker,dotnet,eclipse,elasticsearch,figma,flask,git,github,gitlab,latex)
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArcueidShiki/ArcueidShiki/blob/output/github-contribution-grid-snake-dark.svg">
