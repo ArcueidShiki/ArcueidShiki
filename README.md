@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        14 hrs 42 mins  ██████████████░░░░░░░░░░░   55.95 %
-C             6 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
-Markdown      2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Makefile      1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-HTML          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+C             10 hrs 5 mins   ███████████░░░░░░░░░░░░░░   43.41 %
+Python        8 hrs           ████████▓░░░░░░░░░░░░░░░░   34.40 %
+Markdown      2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Makefile      1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Text          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
