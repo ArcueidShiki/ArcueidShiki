@@ -23,6 +23,9 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 </picture>
 <!--START_SECTION:waka-->
 
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ```txt
 Markdown   7 hrs           ████████████▒░░░░░░░░░░░░   48.75 %
 Python     4 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.09 %
