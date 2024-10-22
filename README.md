@@ -21,6 +21,9 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArcueidShiki/ArcueidShiki/blob/output/github-contribution-grid-snake.svg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/ArcueidShiki/ArcueidShiki/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+![](profile-3d-contrib/profile-night-rainbow.svg)
+
 <!--START_SECTION:waka-->
 
 ```txt
