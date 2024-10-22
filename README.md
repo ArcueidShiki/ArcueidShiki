@@ -23,15 +23,12 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 </picture>
 <!--START_SECTION:waka-->
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ```txt
-Markdown   7 hrs           ████████████▒░░░░░░░░░░░░   48.75 %
-Python     4 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.09 %
-Other      1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-Java       57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Docker     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Markdown   5 hrs 4 mins    ███████████▓░░░░░░░░░░░░░   46.40 %
+Python     4 hrs 49 mins   ███████████░░░░░░░░░░░░░░   44.15 %
+Other      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Java       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Docker     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
