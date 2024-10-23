@@ -108,7 +108,11 @@ Other      4 mins          ▒░░░░░░░░░░░░░░░░�
 
 </h6>
 
+## Profile Views
+Counting of visitors to this page in this section started on Oct 23, 2024
 ![](https://count.getloli.com/@:arcueidshiki?theme=rule34)
+
+<a href="https://info.flagcounter.com/qmQl"><img src="https://s11.flagcounter.com/count2/qmQl/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ## 🌟 Projects
 
