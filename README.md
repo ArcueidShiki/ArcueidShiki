@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E3%81%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A2%E3%83%AB%E3%82%AF%E3%82%A8%E3%83%89%E3%81%A7%E3%81%99)](https://git.io/typing-svg)
+
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,qt,cmake,linux,clion,idea,pycharm,cloudflare,aws,gcp,azure,react,codepen,vue,html,css,md,mysql,mongodb,nextjs,nginx,npm,nodejs,d3,obsidian,opencv,postman,postgres,powershell,rabbitmq,raspberrypi,redis,pr,ps,spring,tensorflow,threejs,ts,ubuntu,unity,unreal,vercel,vite,vscode,anaconda,arduino,au,bash,blender,bootstrap,discord,django,docker,dotnet,eclipse,elasticsearch,figma,flask,git,github,gitlab,latex,sqlite,visualstudio,pytorch,jenkins)
 
 ---
@@ -105,6 +108,7 @@ Other      4 mins          ▒░░░░░░░░░░░░░░░░�
 
 </h6>
 
+![](https://count.getloli.com/@:arcueidshiki?theme=rule34)
 
 ## 🌟 Projects
 
