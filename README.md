@@ -30,11 +30,11 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 <!--START_SECTION:waka-->
 
 ```txt
-C++        15 hrs 27 mins  ███████████████████████▒░   93.32 %
-Markdown   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-C          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C++        17 hrs 4 mins   ███████████████████████▒░   93.88 %
+Markdown   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+C          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
