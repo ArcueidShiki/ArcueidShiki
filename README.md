@@ -30,11 +30,11 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 <!--START_SECTION:waka-->
 
 ```txt
-C++                                7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.64 %
-Other                              5 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-C#                                 5 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-TypeScript                         2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Markdown                           1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Other                              7 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+C#                                 5 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+C++                                5 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+TypeScript                         2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Markdown                           2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
 ```
 
 <!--END_SECTION:waka-->
