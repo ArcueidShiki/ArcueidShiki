@@ -30,11 +30,11 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.71 %
-Markdown     3 hrs 42 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-TypeScript   3 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-JavaScript   2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-Swift        1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Python       5 hrs 26 mins   ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+JavaScript   3 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Markdown     3 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+TypeScript   2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+HTML         1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 ```
 
 <!--END_SECTION:waka-->
